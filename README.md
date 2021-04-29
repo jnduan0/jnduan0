@@ -1,5 +1,8 @@
 ### Hi there 👋
 I'm a student!
+I'm interested in learning engineering!
+I'm working on my project!
+I have lots of hobbies!
 <!--
 **jnduan0/jnduan0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
